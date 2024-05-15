@@ -33,9 +33,10 @@
 7. [Trabalhando tmpfs e pause](https://gist.github.com/joaovictorino/e3c8215ed62191ff50c66d2d2fe268d4)
 8. [Vamos trabalhar com rede (bridge)](https://gist.github.com/joaovictorino/3e34bf4b2b861f4238d339985e4feba7)
 9. [Vamos trabalhar com rede (bridge e DNS)](https://gist.github.com/joaovictorino/dcd85caa004a2d5ced3ace1ced5ccaed)
-10. [Entendendo as camadas das imagens](https://gist.github.com/joaovictorino/5a49da6c2d4e4fab4fe688ca0d3a1352)
-11. [Trabalhando com variáveis de ambiente](https://gist.github.com/joaovictorino/beb740af49c2ca9bccfbe883afa0abaf)
-12. [MySQL + redes + volumes](https://gist.github.com/joaovictorino/ecf3dc76b806b7e921ff4c05dcc951c1)
+10. [Conectar e desconectar da rede](https://gist.github.com/joaovictorino/fb168f2111d466b298625f41ca30a3e1)
+11. [Entendendo as camadas das imagens](https://gist.github.com/joaovictorino/5a49da6c2d4e4fab4fe688ca0d3a1352)
+12. [Trabalhando com variáveis de ambiente](https://gist.github.com/joaovictorino/beb740af49c2ca9bccfbe883afa0abaf)
+13. [MySQL + redes + volumes](https://gist.github.com/joaovictorino/ecf3dc76b806b7e921ff4c05dcc951c1)
 
 ## Aula 02
 
