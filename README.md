@@ -35,8 +35,9 @@
 9. [Vamos trabalhar com rede (bridge e DNS)](https://gist.github.com/joaovictorino/dcd85caa004a2d5ced3ace1ced5ccaed)
 10. [Conectar e desconectar da rede](https://gist.github.com/joaovictorino/fb168f2111d466b298625f41ca30a3e1)
 11. [Entendendo as camadas das imagens](https://gist.github.com/joaovictorino/5a49da6c2d4e4fab4fe688ca0d3a1352)
-12. [Trabalhando com variáveis de ambiente](https://gist.github.com/joaovictorino/beb740af49c2ca9bccfbe883afa0abaf)
-13. [MySQL + redes + volumes](https://gist.github.com/joaovictorino/ecf3dc76b806b7e921ff4c05dcc951c1)
+12. [Convertendo contêiner em imagem](https://gist.github.com/joaovictorino/5414f72078030b46bb27a74638b5936f)
+13. [Trabalhando com variáveis de ambiente](https://gist.github.com/joaovictorino/beb740af49c2ca9bccfbe883afa0abaf)
+14. [MySQL + redes + volumes](https://gist.github.com/joaovictorino/ecf3dc76b806b7e921ff4c05dcc951c1)
 
 ## Aula 02
 
