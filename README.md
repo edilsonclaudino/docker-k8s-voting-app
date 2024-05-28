@@ -65,7 +65,7 @@
 5. [Analisando logs e eventos](https://gist.github.com/joaovictorino/3457fe929d95fd52bea0038b7657060b)
 6. [Criando um serviço do tipo ClusterIP](https://gist.github.com/joaovictorino/ff5282a1a04f46d29843d95a4d604783)
 7. [Criando um serviço do tipo NodePort](https://gist.github.com/joaovictorino/11735e9b6a8bda21f0aa85da103565a7)
-8. [Criando um serviço do tipo Ingress](https://gist.github.com/joaovictorino/ec99b17cbb4d4c412f0d10e0ce041b26)
+8. [Criando um Ingress](https://gist.github.com/joaovictorino/ec99b17cbb4d4c412f0d10e0ce041b26)
 9. [Criando um ReplicaSet](https://gist.github.com/joaovictorino/0fce6038ecaeb58250a1eccdf4bec153)
 10. [Criando um Deployment](https://gist.github.com/joaovictorino/a3f9ebbda511a06994ea4bd1e77a932d)
 11. [Entendendo imutabilidade](https://gist.github.com/joaovictorino/35d4f6b497b8715d3894cb193a779586)
